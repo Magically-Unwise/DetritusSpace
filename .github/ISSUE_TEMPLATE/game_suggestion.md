@@ -2,7 +2,7 @@
 name: Game Suggestion
 about: Suggest an addition to the game.
 title: Game Suggestion, (very short desc of addition.)
-labels:
+labels: Suggestion
 assignees: ''
 
 ---
